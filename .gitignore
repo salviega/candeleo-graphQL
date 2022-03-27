@@ -1,0 +1,11 @@
+
+#Nodenv
+.env
+
+#Cache
+.DS_STORE
+.DS_STORE?
+._*
+
+#Folders
+node_modules/
