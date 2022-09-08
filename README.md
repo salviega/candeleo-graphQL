@@ -4,7 +4,7 @@ Cycling GraphQL: project first graph
 
 ### Apollo GraphQL deploy
 
-Apollo GraphQL url: https://studio.apollographql.com/public/cycling-graphql/explorer?variant=current
+Apollo GraphQL url: https://studio.apollographql.com/public/cycling-graphql/explorer
 
 
 ## Quick start 🏄
