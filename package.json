@@ -1,5 +1,5 @@
 {
-  "name": "graphql",
+  "name": "cycling-graphql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,16 +13,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@apollo/rover": "^0.8.2",
     "apollo-server": "^3.6.6",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "graphql": "^16.3.0",
     "mongoose": "^6.2.8",
     "nodemon": "^2.0.15",
+    "standard": "^16.0.4",
     "uuid": "^8.3.2"
-  },
-  "devDependencies": {
-    "@apollo/rover": "^0.8.2",
-    "standard": "^16.0.4"
   }
 }
