@@ -22,6 +22,7 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
+    "@apollo/rover": "^0.8.2",
     "standard": "^16.0.4"
   }
 }
