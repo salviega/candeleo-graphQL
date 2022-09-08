@@ -1,6 +1,6 @@
 # Cycling GraphQL
 
-Cycling GraphQL: project first graph 
+Cycling GraphQL: The graph 
 
 ### Apollo GraphQL deploy
 
